@@ -17,4 +17,4 @@ url: "https://bulldogeartday.github.io" # the base hostname & protocol for your 
 # Build settings
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
