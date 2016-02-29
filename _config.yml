@@ -11,7 +11,7 @@ title: Fresno State Earth Day
 description: > # this means to ignore newlines until "baseurl:"
   Come and celebrate mother Eart at Fresno State on 20th of April 2016.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bulldogeartday.github.com" # the base hostname & protocol for your site
+url: "https://bulldogeartday.github.io" # the base hostname & protocol for your site
 #facebook: https://www.facebook.com/fresnostatesustainabilityproject
 
 # Build settings
