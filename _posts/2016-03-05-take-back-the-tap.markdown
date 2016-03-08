@@ -8,5 +8,6 @@ alt: image-alt
 title: Take Back The Tap
 subtitle: TAKE BACK THE TAP CHALLENGE.
 description: Can you tell the difference between tap water and bottled water? Try the challenge to find out!
+category: program
 
 ---
