@@ -18,6 +18,8 @@ category: post
 
 inline markup like _italics_,  **bold**
 
+--------------
+
 * Bullet lists are easy too
 - Another one
 + Another one
