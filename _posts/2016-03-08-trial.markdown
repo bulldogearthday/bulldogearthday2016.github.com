@@ -20,6 +20,8 @@ inline markup like _italics_,  **bold**
 
 --------------
 
+![alternative text](/img/posts/download.png "Title is optional"){: .center-image .img-responsive .img-rounded }
+
 * Bullet lists are easy too
 - Another one
 + Another one
