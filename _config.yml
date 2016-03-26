@@ -49,7 +49,7 @@ address:
   - line: <a href="https://www.google.com/maps/place/36%C2%B048'44.7%22N+119%C2%B044'51.5%22W/@36.8123925,-119.7481271,218m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0" target="_blank">South of Kennel Bookstore, Fresno, CA</a>
 
 # Credits content
-credits: <a href="https://jeromelachaud.github.io/freelancer-theme/">Freelancer Jekyll theme</a>, Nicole Warmerdam and Kacie Anne for artwork, all the members of the <a href="https://www.facebook.com/groups/354051928072314">Fresno State Sustainability Ambassadors</a>.
+credits: Nicole Warmerdam and Kacie Anne for artwork, Debbie Xiong, Alexandra Pytlak, Jonathan Benson, Beth Weinman, Criss Wilhite and all the members of the <a href="https://www.facebook.com/groups/354051928072314">Fresno State Sustainability Ambassadors</a>. The website uses <a href="https://jeromelachaud.github.io/freelancer-theme/">Freelancer Jekyll theme</a>.
 
 # Build settings
 markdown: kramdown
