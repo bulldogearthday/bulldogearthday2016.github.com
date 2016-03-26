@@ -11,3 +11,5 @@ description: Ask how they are promoting sustainability and get involved! Active 
 category: program
 
 ---
+
+**Vendors:** Eagle Nest, Sun Dogs, Citizen Climate Lobby, IWS, Earth Day Fresno, Mid-Valley Disposal, Valley Air Pollution Control District, Landfilledzine
