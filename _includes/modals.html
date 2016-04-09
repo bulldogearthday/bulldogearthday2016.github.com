@@ -35,19 +35,6 @@
                             {% if post.subtitle2 %}
                                 <h3>{{ post.subtitle2 }}</h3>
                             {% endif %}
-                            {% if post.img3 %}
-                                <hr class="star-primary">
-                                <img src="img/programs/{{ post.img3 }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}">
-                            {% endif %}
-                            {% if post.url3 %}
-                                <a href="{{ post.url3 }}" target="_blank" class="btn btn-default"><i class="fa fa-external-link-square"></i> {{ post.url3 }}</a>
-                            {% endif %}
-                            {% if post.facebook3 %}
-                                <a href="{{ post.facebook3 }}" target="_blank" class="btn btn-default"><i class="fa fa-facebook-square"></i> {{ post.facebook3 }}</a>
-                            {% endif %}
-                            {% if post.subtitle3 %}
-                                <h3>{{ post.subtitle3 }}</h3>
-                            {% endif %}
                             <p>{{ post.description }}</p>
                             {% if post.content %}
                                 {{ post.content }}
